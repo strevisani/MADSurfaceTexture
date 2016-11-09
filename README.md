@@ -32,7 +32,8 @@ THE SOFTWARE.
 
 In this folder there is the code necessary to test the algorithm and understand its structure (and rebuild the procedure in other software environments).
 
-The software has been tested with ArcGis 10.2, 10.2.1. and 10.3
+The software has been tested with ArcGis 10.2, 10.2.1. and 10.3. Take care of how international settings are interpreted by python interpreter in Arcgis 10.41: be sure that python uses correctly the decimal separator (i.e., ".")! Otherwise the kernels with decimal values will not work!
+
 
 List of items and quick description:
 - 1. MADfunctionsV1.py --> Here we find the core functions definition related to MAD indexes. These are used both by "exampleScript.py" as well as by the developed toolbox.
