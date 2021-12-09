@@ -3,7 +3,7 @@ This is a quick update to comunicate that in the following weeks I'll upload new
 related to geostatistical based indices for surface/image texture analysis.
 
 I will do some minor updates for the version in phyton for arcmap/arcgis pro (new kernels). In this environments I'm adding a new simplified toolbox and a function for computing
-vector ruggedness (i.e., dispersion of vector normals to surface). You will find new arcmap arcgis pro staff in the folder "NewArcmapTools". 
+vector ruggedness (i.e., dispersion of vector normals to surface). You will find new arcmap arcgis pro staff in the folder "ArcmapNewTools". 
 
 However, the main change is related to the new cose for R environment, using the facilities of Terra package. Still to upload things.
 
