@@ -1,13 +1,16 @@
-#quick update December 2021
-This is a quick update to comunicate that in the following weeks I'll upload new code related to geostatistical based indices
-for surface/image texture analysis.
+#Quick update December 2021
+This is a quick update to comunicate that in the following weeks I'll upload new code (as soon as I go on with coding and testing I'll add it) 
+related to geostatistical based indices for surface/image texture analysis.
 
-I will do some minor updates for the version in phyton for arcmap/arcgis pro. In this environments I'm adding a new simplified toolbox and a function for computing
-vector ruggedness (i.e., dispersion of vector normals to surface).
+I will do some minor updates for the version in phyton for arcmap/arcgis pro (new kernels). In this environments I'm adding a new simplified toolbox and a function for computing
+vector ruggedness (i.e., dispersion of vector normals to surface). You will find new arcmap arcgis pro staff in the folder "NewArcmapTools". 
 
-However, the main change is related to the new cose for R environment, using the facilities of Terra package.
+However, the main change is related to the new cose for R environment, using the facilities of Terra package. Still to upload things.
 
 Regarding the kernels, these will be updated using more significative digits.
+
+
+
 ########################################
 
 
