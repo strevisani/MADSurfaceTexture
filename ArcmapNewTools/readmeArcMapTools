@@ -5,6 +5,13 @@ Currently you will find a first toolbox "Mad2cV1" permitting to calculate some b
 
 I will add new staff in the coming weeks...
 
+
+
+A really important thing!!!!!!!!!!!!!!!!!!
+Arcmap has some trickeries (at least on window systems) in managing the international settings (i.e., comma or point as decimal separator). The
+code uses custom weigth kernels that use the point as decimal separator. I suggest to set in international setting as English (US) and 
+the point as decimal separator. If you get an error message "invalid weight neighborhood mask" is related to this issue. 
+
 bye
 
 Sebastiano
