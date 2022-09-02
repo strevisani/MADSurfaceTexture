@@ -5,7 +5,7 @@ related to geostatistical based indices for surface/image texture analysis.
 I will do some minor updates for the version in phyton for arcmap/arcgis pro (new kernels). In this environments I'm adding a new simplified toolbox and a function for computing
 vector ruggedness (i.e., dispersion of vector normals to surface). You will find new arcmap arcgis pro staff in the folder "ArcmapNewTools". 
 
-However, the main change is related to the new cose for R environment, using the facilities of Terra package. Still to upload things.
+However, the main change is related to the new coe for R environment, using the facilities of Terra package. Still to upload things.
 
 Regarding the kernels, these will be updated using more significative digits.
 
@@ -49,6 +49,7 @@ THE SOFTWARE.
 In this folder there is the code necessary to test the algorithm and understand its structure (and rebuild the procedure in other software environments).
 
 The software has been tested with ArcGis 10.2, 10.2.1. and 10.3. Take care of how international settings are interpreted by python interpreter in Arcgis 10.41: be sure that python uses correctly the decimal separator (i.e., ".")! Otherwise the kernels with decimal values will not work!
+
 
 
 List of items and quick description:
