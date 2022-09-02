@@ -1,3 +1,19 @@
+#Quick update December 2021
+This is a quick update to comunicate that in the following weeks I'll upload new code (as soon as I go on with coding and testing I'll add it) 
+related to geostatistical based indices for surface/image texture analysis.
+
+I will do some minor updates for the version in phyton for arcmap/arcgis pro (new kernels). In this environments I'm adding a new simplified toolbox and a function for computing
+vector ruggedness (i.e., dispersion of vector normals to surface). You will find new arcmap arcgis pro staff in the folder "ArcmapNewTools". 
+
+However, the main change is related to the new coe for R environment, using the facilities of Terra package. Still to upload things.
+
+Regarding the kernels, these will be updated using more significative digits.
+
+
+
+########################################
+
+
 # MADSurfaceTexture
 MAD functions for surface/image texture characterization
 
@@ -34,7 +50,7 @@ In this folder there is the code necessary to test the algorithm and understand 
 
 The software has been tested with ArcGis 10.2, 10.2.1. and 10.3. Take care of how international settings are interpreted by python interpreter in Arcgis 10.41: be sure that python uses correctly the decimal separator (i.e., ".")! Otherwise the kernels with decimal values will not work!
 
-S.T.
+
 
 List of items and quick description:
 - 1. MADfunctionsV1.py --> Here we find the core functions definition related to MAD indexes. These are used both by "exampleScript.py" as well as by the developed toolbox.
