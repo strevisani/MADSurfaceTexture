@@ -1,4 +1,5 @@
-#See readmeUpdateSept2022 for updated information
+#See readmeUpdateSept2022 for updated information.
+
 For reference see https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4223135
 
 
