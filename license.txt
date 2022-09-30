@@ -1,4 +1,4 @@
-New R functions for geostatistical roughness (or image texture) analysis
+License related to New R functions for geostatistical roughness (or image texture) analysis
 ###Date 1 September 2022 Venice###
 #
 ##Begin of license
