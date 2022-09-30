@@ -1,4 +1,7 @@
+30th September 2022
+
 Folder content
+
 
 "basicKernels.RData" The pre-computed kernels of order 1 and 2
 "kernelsR" The folder with the pre-computed kernels in text format
