@@ -14,6 +14,7 @@ the latter adopt differences of order 2 and bypass detrending (see http://dx.doi
 Then there are two folder with kernels of order 1 and of order 2 (respect to the version of 2014 in these the weights are not rounded).
 These are useful if you need to use custom scripts and not the toolboxes.
 
+Finally I provide also a function for computing roughness based on the dispersion of normal vectors (VRM).
 
 
 A really important thing!!!!!!!!!!!!!!!!!!
