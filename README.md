@@ -1,4 +1,6 @@
-#See readmeUpdateSept2022 for updated information.
+#Quick update 30th September 2022
+
+See "readmeUpdateSept2022" for updated information.
 
 For reference see https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4223135
 
