@@ -1,3 +1,5 @@
+#See readmeUpdateSept2022 for updated information
+
 #Quick update December 2021
 This is a quick update to comunicate that in the following weeks I'll upload new code (as soon as I go on with coding and testing I'll add it) 
 related to geostatistical based indices for surface/image texture analysis.
