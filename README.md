@@ -4,6 +4,7 @@ See "readmeUpdateSept2022" for updated information.
 
 For reference see https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4223135
 
+the new staff is in the folder "RImplementation" and "ArcmapNewTools"
 
 #Quick update December 2021
 This is a quick update to comunicate that in the following weeks I'll upload new code (as soon as I go on with coding and testing I'll add it) 
