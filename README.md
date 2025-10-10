@@ -9,7 +9,9 @@ https://github.com/strevisani/SurfRough
 https://cran.r-project.org/web/packages/SurfRough/index.html
 
 
-Soon I will upload here also some code for Qgis/Grass
+Soon I will upload here also some code for Qgis/Grass. For now I uploaded only the script for computing RRI in Qgis:
+https://github.com/strevisani/MADSurfaceTexture/tree/master/Qgis
+
 
 You are welcome to collaborate for doing the porting to other enviroments.
 
