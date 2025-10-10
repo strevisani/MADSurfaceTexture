@@ -1,8 +1,12 @@
 #Update 20th October 2025
+
 I added the version of MADk2 and RRI working in arcgis pro. I keep the old files for Arcmap and R for "historical" reasons. However,
 consider that the solid and well tested algorithms are the ones implemented in R:
+
 https://github.com/strevisani/SurfRough
+
 https://cran.r-project.org/web/packages/SurfRough/index.html
+
 
 Soon I will upload here also some code for Qgis/Grass
 
