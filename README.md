@@ -1,6 +1,7 @@
 #Update 20th October 2025
 
-I added the version of MADk2 and RRI working in arcgis pro. I keep the old files for Arcmap and R for "historical" reasons. However,
+I added the version of MADk2 and RRI working in ArcGis Pro (just download the zipped file in https://github.com/strevisani/MADSurfaceTexture/tree/701a8e3d4988b34f97f218a76bd250b80d685ad5/ArcGisProScripts).
+I kept the old files for Arcmap and R for "historical" reasons. However,
 consider that the solid and well tested algorithms are the ones implemented in R:
 
 https://github.com/strevisani/SurfRough
